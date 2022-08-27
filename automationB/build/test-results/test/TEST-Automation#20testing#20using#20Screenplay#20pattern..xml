@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation testing using Screenplay pattern." tests="1" skipped="1" failures="0" errors="0" timestamp="2022-08-27T18:46:28" hostname="PSOFKA0895" time="0.261">
+  <properties/>
+  <testcase name="Fill a register registration form using mandatory fields" classname="Automation testing using Screenplay pattern." time="0.261">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
