@@ -1,13 +1,9 @@
 # banistmo
 skill Hacking
 
-Git clone https://github.com/johanmudea/banistmo.git
+CORDIAL SALUDO.
 
-git status
+Como expliqué tuve bastantes problemas para trabajar el reto, sin embargo lo desarrollé de nuevo esperando mostrar unas mejores prácticas profesionales. muchas gracias
+Adjunto repo con proyecto.
 
-git add .
-
-git commit -m ""
-
-git push
-
+https://github.com/johanmudea/evalartBanistmo.git
